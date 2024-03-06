@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "208948765893",
+    "project_id": "portakal-mobile-user-app",
+    "storage_bucket": "portakal-mobile-user-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208948765893:android:00f1e46c5cbfe7b9fabcac",
+        "android_client_info": {
+          "package_name": "com.example.portakal_mobile_user_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXNP_baePNsSgefouvzdYlJLNlCfnTfaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
